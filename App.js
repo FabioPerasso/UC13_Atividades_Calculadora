@@ -98,7 +98,7 @@ const styles = StyleSheet.create({
   },
   resultText: {
     color: "#282F38",
-    fontSize: 32,
+    fontSize: 27,
     fontWeight: "bold",
     padding: 12,
     textAlign: "right"
@@ -118,7 +118,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     minWidth: 90, 
-    minHeight: 90,
+    minHeight: 80,
     flex: 2,
   },
   textButton: {
